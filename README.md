@@ -1,2 +1,26 @@
-# Projeto-Agrinho
-Projeto-Agrinho
+# Meu primeiro projeto
+Meu primeiro projeto
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartão</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="cartao">
+        <h1>Meu Cartão</h1>
+
+        <p>
+            Estou aprendendo HTML e CSS.
+        </p>
+
+        <button>Saiba mais</button>
+    </div>
+
+</body>
+</html>
