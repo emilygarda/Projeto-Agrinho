@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.cartao {
+    background-color: white;
+
+    width: 350px;
+    height: 260px;
+
+    padding: 30px;
+
+    border-radius: 10px;
+
+    text-align: center;
+}
